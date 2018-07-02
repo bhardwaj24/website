@@ -1,0 +1,86 @@
+#picture1 {
+    width: 15%;
+    height: 190px;
+    margin-left:30px;
+    position: relative;
+    float: left;
+  }
+
+.sam_logo{
+    position: relative;
+    width:120%;
+    height:100%;
+}
+
+  #picture2 {
+    width: 15%;
+    height: 180px;
+    margin-left:50px;
+    position: relative;
+    float: left;
+  }
+
+  #picture3 {
+    width: 15%;
+    margin-left:70px;
+    height: 200px;
+    position: relative;
+    float: left;
+  }
+ 
+  #picture4 {
+    height: 140px;
+    width: 180px;
+    margin-top: 30px;
+    margin-left:50px;
+    position: relative;
+    float: left;
+  }
+
+  #picture5 {
+    height: 200px;
+    margin-left:10px;
+    position: relative;
+    float: left;
+  }
+
+  #picture6 {
+    width: 15%;
+    height: 160px;
+    margin-left:25px;
+    margin-top: 10px;
+    position: relative;
+    float: left;
+  }
+
+  #picture1 img:hover {
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+  }
+  #picture2 img:hover {
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+  }
+  #picture3 img:hover {
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+  }
+  #picture4 img:hover {
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+  }
+  #picture5 img:hover {
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+  }
+  #picture6 img:hover {
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+  }
+  
+
+
+  #hold_images{
+      height:400px;
+      width:100%;
+  }

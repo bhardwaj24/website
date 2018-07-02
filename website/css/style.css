@@ -1,0 +1,207 @@
+#header {
+  color: white;
+  background-color: green;
+  height: 50px;
+  margin-top: -25px;
+}
+
+a:hover {
+  cursor: pointer;
+}
+
+#align {
+  color:black;
+  float: right;
+  margin-top: -10px;
+}
+
+#align button{
+  color: black;
+}
+
+#col {
+font-size: 30px;
+}
+
+
+#align ul {
+  list-style-type: none;
+}
+
+#align li{
+  display: inline;
+  font-size: 25px;
+  padding: 10px;
+  
+}
+
+.nav_right{
+  color:white;
+}
+#align a{
+  font-size: 18px;
+  color: black;
+  text-decoration: none;
+} 
+#subtopic {
+  color: black;
+  background-color: blanchedalmond;
+  float: right;
+  margin-top: 0px;
+  width:100%;
+ 
+}
+
+.para_style{
+  font-size:15px;
+}
+
+
+#subtopic ul{
+  list-style-type: none;
+}
+
+#subtopic li{
+  font-size: 25px;
+  padding: 30px;
+  display: inline;
+}
+
+#pic1 img{
+  width: 33%;
+  position: relative;
+  float: right;
+  
+}
+
+#pic1 img:hover{
+  opacity: 0.5;
+  filter: alpha(opacity=50);
+}
+
+#pic2 img{
+  width: 33%;
+  position: relative;
+  float: left;  
+}
+#pic2 img:hover{
+  opacity: 0.5;
+  filter: alpha(opacity=50);
+}
+#pic3 img:hover{
+  opacity: 0.5;
+  filter: alpha(opacity=50);
+}
+
+#pic3 img{
+  width: 33%;
+  position: relative;
+  height: 30%;
+  float: left;
+}
+
+#pop {
+  margin-top: 50%;
+}
+
+#pic4 img{
+  width: 33%;
+  position: relative;
+  float: left;
+}
+
+#pic5 img{
+  width: 33%;
+  position: relative;
+  float: right;
+  margin-top: 50px;
+ 
+}
+
+#pic6 img{
+  width: 33%;
+  position: relative;
+  float: right;
+  margin-top: 32px;
+ 
+}
+#pic7 img{
+  width: 33%;
+  position: relative;
+  
+}
+
+#pic4 img:hover {
+  opacity: 0.5;
+  filter: alpha(opacity=50);
+}
+#pic5 img:hover {
+  opacity: 0.5;
+  filter: alpha(opacity=50);
+}
+#pic6 img:hover {
+  opacity: 0.5;
+  filter: alpha(opacity=50);
+}
+
+
+.dropbtn {
+background-color: green;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  height: 30px;
+  border: none;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color:white;
+  color:black;
+  min-width: 160px;  
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  font-size: 15px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropbtn2 {
+  background-color: blanchedalmond;
+    color:black;
+    padding: 16px;
+    font-size: 16px;
+    height: 30px;
+    border: none;
+  }
+  
+  .dropdown:hover .dropdown-content {display: block;}
+
+  #images {
+    height: 400px;
+    width: 100%;
+  }
+  #c1 {
+    background-color: dodgerblue;
+    height: 150px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+  }
+
+  #c1 a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+  }
